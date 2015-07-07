@@ -12,7 +12,7 @@ import org.junit.runners.Parameterized;
 import static org.junit.runners.Parameterized.Parameters;
 
 @RunWith(Parameterized.class)
-//add coment
+//add comment
 public class TestCalc {
     // Обратите внимание на данные в скобках - первый два - числа, которые складываем/вычитаем
     // Вторые - это их сумма и разность
